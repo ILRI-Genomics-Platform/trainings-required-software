@@ -11,4 +11,6 @@ Below is a list of the software that you need installed:
 
 ## WinSCP
 
+## Notepad++
+
 
