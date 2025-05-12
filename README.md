@@ -43,7 +43,7 @@ Download the free Home Edition from here: https://mobaxterm.mobatek.net/download
 
 ## WinSCP
 We will use WinSCP to log into the HPC and download files to the local machine 
-To download WinSCP go to this page, download and install: https://winscp.net/eng/docs/guide_install
+To download WinSCP go to this page, download and install: https://winscp.net/eng/download.php
 
 ## Notepad++
 Notepad++ can be used to create text-based files where you can write scripts and also take notes
