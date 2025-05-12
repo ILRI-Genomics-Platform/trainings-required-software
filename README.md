@@ -38,9 +38,13 @@ Once you have installed WSL, you will need to create a user account and password
 
 
 ## MobaXterm
+MobaXterm will give us a shell interface from where we can log into the HPC.
+Download the free Home Edition from here: https://mobaxterm.mobatek.net/download.html
 
 ## WinSCP
+We will use WinSCP to log into the HPC and download files to the local machine 
+To download WinSCP go to this page, download and install: https://winscp.net/eng/docs/guide_install
 
 ## Notepad++
-
-
+Notepad++ can be used to create text-based files where you can write scripts and also take notes
+Download the latest version from  here: https://notepad-plus-plus.org/downloads/
